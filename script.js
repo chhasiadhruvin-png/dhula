@@ -119,4 +119,4 @@ if (dateInput) {
     dateInput.setAttribute('min', formattedDate);
 }
 
-console.log('Dhula Beauty Parlor Website Loaded Successfully! ✨');
+console.log('Style N Glow Beauty Salon Website Loaded Successfully! ✨');
